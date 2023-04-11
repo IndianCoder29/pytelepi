@@ -5,7 +5,7 @@ import os
 import telebot
 
 
-bot = telebot.TeleBot('5208741101:AAH7RzGlEqA7MB7vLFGl8LQMZV_il1_l9B0')
+bot = telebot.TeleBot('6207211081:AAE1pgK_ojDDaY_heE3rhOUszfurBoes5jk')
 str = ''
 Fg = False
 flag = True
